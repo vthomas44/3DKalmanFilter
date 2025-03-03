@@ -8,6 +8,5 @@ This project implements a Kalman Filter to track a moving target in 3D space (X,
 4. *Plots the results in a 3D visualization.*
 
 ## Results
-### Images
-1. **STM32 & ESP32 PWM Generation setup**
-   !(Results/Setup.JPEG)
+1. **3D Kalman Filter**
+   ![Output](Figure_1.png)
